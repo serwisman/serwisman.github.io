@@ -102,6 +102,11 @@ a {
     background-image: url('./img/lenovo.svg');
 }
 
+.img__toshiba {
+    background-position: 50%;
+    background-image: url('./img/toshiba.svg');
+}
+
 .img__allegro {
     background-position: 50%;
     background-image: url('./img/allegro.png');
